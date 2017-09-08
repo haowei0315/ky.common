@@ -14,7 +14,7 @@ public class BaseDao {
 	
 	private void delete() {
 		// TODO Auto-generated method stubd
-
+//sss
 	}
 	
 	private void add() {
