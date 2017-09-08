@@ -20,7 +20,7 @@ public class BaseDao {
 	private void add() {
 		// TODO Auto-generated method stub
 		System.err.println(11111111);
-		System.err.println(121224);
+		System.err.println(121224dd);
 	}
 
 }
